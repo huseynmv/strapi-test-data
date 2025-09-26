@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_body_items",
+  "info": {
+    "displayName": "Item"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": false
+    },
+    "icon": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

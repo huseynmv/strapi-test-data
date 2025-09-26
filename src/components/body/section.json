@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_body_sections",
+  "info": {
+    "displayName": "Section"
+  },
+  "options": {},
+  "attributes": {
+    "category": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "items": {
+      "type": "component",
+      "component": "body.item",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}
